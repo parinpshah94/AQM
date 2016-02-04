@@ -6,7 +6,6 @@ output: html_document
 ---
 
 =======
->>>>>>> 8332b18292d3378aaccc0a6e61af7503c64dd922
 ## Get to know an {Economics Student + Data Enthusiast}
 
 > <span style="color:red">***About myself:***</span> I like to find meaning in a sea full of numbers. I strive to learn how data and visualizations can be leveraged to story tell complex problems facing the world, for example, finding ways to create GMOs that can solve world hunger. 
